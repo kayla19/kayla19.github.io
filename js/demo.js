@@ -5,8 +5,9 @@
 
 $(document).ready(function() {
   $('#particles').particleground({
-    dotColor: '#5cbdaa',
-    lineColor: '#5cbdaa'
+    dotColor: '#008C9E',
+    lineColor: '#00B4CC',
+	density: '12000'
   });
   $('.intro').css({
     'margin-top': -($('.intro').height() / 2)
