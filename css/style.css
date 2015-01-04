@@ -105,6 +105,7 @@ p {
   display: inline-block;
   padding: 15px 30px;
   border: 2px solid #fff;
+  margin: 3px 3px 3px 3px;
   text-transform: uppercase;
   letter-spacing: 0.015em;
   font-size: 18px;
@@ -118,8 +119,9 @@ p {
           transition: all 0.4s;
 }
 .btn:hover {
-  color: #005544;
-  border-color: #005544;
+  color: #000000;
+  border-color: #000000;
+  background-color: #008C9E;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -162,4 +164,13 @@ p {
   h1::after {
     height: 4px;
   }
+}
+a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a:hover {
+	text-decoraation: italic;
+	color: black;
 }
