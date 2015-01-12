@@ -81,6 +81,7 @@ body {
   padding: 0 20px;
   width: 100%;
   text-align: center;
+  font-family: Helvetica;
 }
 h1 {
   text-transform: uppercase;
@@ -173,4 +174,8 @@ a{
 a:hover {
 	text-decoraation: italic;
 	color: black;
+}
+#picture{
+	text-align: center;
+	image-radius: 100%;
 }
