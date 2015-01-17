@@ -177,5 +177,5 @@ a:hover {
 }
 #picture{
 	text-align: center;
-	img-radius: 100%;
+	border-radius: 100%;
 }
