@@ -1,7 +1,4 @@
-/**
- * Particleground demo
- * @author Jonathan Nicol - @mrjnicol
- */
+//jQuery plugin responds to cursor input//
 
 $(document).ready(function() {
   $('#particles').particleground({
