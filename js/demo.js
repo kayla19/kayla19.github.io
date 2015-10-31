@@ -2,8 +2,8 @@
 
 $(document).ready(function() {
   $('#particles').particleground({
-    dotColor: '#BFCDB4',
-    lineColor: '#BFCDB4',
+    dotColor: '##7D5D4E',
+    lineColor: '#7D5D4E',
 	density: '6000'
   });
   $('.intro').css({
