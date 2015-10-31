@@ -2,9 +2,9 @@
 
 $(document).ready(function() {
   $('#particles').particleground({
-    dotColor: '#008C9E',
-    lineColor: '#00B4CC',
-	density: '8000'
+    dotColor: '#BFCDB4',
+    lineColor: '#BFCDB4',
+	density: '6000'
   });
   $('.intro').css({
     'margin-top': -($('.intro').height() / 2)
