@@ -74,6 +74,8 @@ body {
   overflow: hidden;
 }
 
+/*change position? fixed v absolute. scrolling page? # jump to element? play w/ later. */
+
 .intro {
   position: absolute;
   left: 0;
