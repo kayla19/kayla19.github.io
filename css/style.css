@@ -120,9 +120,9 @@ p {
           transition: all 0.4s;
 }
 .btn:hover {
-  color: #000000;
-  border-color: #000000;
-  background-color: #008C9E;
+  color: #ffffff;
+  border-color: #ffffff;
+  background-color: #7D5D4E;
 }
 
 @media only screen and (max-width: 1000px) {
