@@ -61,7 +61,7 @@ html, body {
 }
 
 body {
-  background: #BFCDB4;
+  background-image: url(grad.jpg);
   font-family: 'Helvetica', sans-serif;
   color: #fff;
   line-height: 1.3;
