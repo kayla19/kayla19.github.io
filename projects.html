@@ -11,18 +11,23 @@
 	<style>
 	h1 {
 	font-size: 250%;
+	text-align: center;
 	}
 
 	h3 {
 		font-size: 150%;
+		color: black;
 	}
 
 	p {
-		margin: 0.25cm 3cm 1cm 3cm;
+		margin: 25px 100px 25px 100px;
+		color: black;
+		font-size: 16px;
 	}
 
 	a{
 		text-decoration: underline;
+		color: black;
 	}
 
 	html {
@@ -32,6 +37,10 @@
 	body{
 			min-height: 50%;
 			overflow-y: scroll;
+			width: 100%;
+			background-image: url(grad.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
 		}
 
 	.btn{
@@ -43,6 +52,16 @@
 		padding: 15px 15px;
 		text-decoration: none;
 	}
+
+	.inner{
+		height: auto;
+		width: 66%;
+		margin-left: 17%;
+		margin-right: 17%;
+		margin-bottom: 30px;
+		display: inline-block;
+		border-radius: 15px;
+	}
 	</style>
 
 	<body>
@@ -51,6 +70,7 @@
 		<br />
 
 		<div class="inner">
+			<br />
 		<h3 style="text-align:center;">C++ and MATLAB Data Project</h3>
 		<p>This project involved me intaking a large 20x40 array of data from a .txt file in C++, then sorting every other number into a separate array using nested for loops. The result was 2 20x20 arrays. I output the results to 2 .txt files, then imported the data into MATLAB. From there, I determined the maximum values, minimum values, and average for both arrays and plotted them into a 3 dimensional mesh graph. This entire project can be found <a href="https://www.dropbox.com/sh/klv4pqp7w8q596j/AAAdeEYGBBFVyl3JxQPG32Wma?dl=0" target="_blank">here</a>.</p>
 

@@ -61,7 +61,7 @@ html, body {
 }
 
 body {
-  background: #BFCDB4;
+  background: #ffffff;
   font-family: 'Helvetica', sans-serif;
   color: #fff;
   line-height: 1.3;
@@ -128,12 +128,7 @@ p {
 }
 
 .inner{
-  background: black;
-  position:
-  width: 50%;
-  display: inline-block;
-  left: auto;
-  right: auto;
+  background: white;
 }
 
 @media only screen and (max-width: 1000px) {
