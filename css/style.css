@@ -129,8 +129,9 @@ p {
 
 .inner{
   background: black;
-  position: 
+  position:
   width: 50%;
+  display: inline-block;
   left: auto;
   right: auto;
 }
