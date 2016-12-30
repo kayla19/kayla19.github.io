@@ -82,7 +82,7 @@ body {
 h1 {
   /*text-transform: uppercase; */
   font-size: 85px;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 0.015em;
 }
 h1::after {
@@ -107,6 +107,7 @@ p {
   border-radius: 5px;
   letter-spacing: 0.015em;
   font-size: 18px;
+  font-family: Work Sans, sans-serif;
   font-weight: 700;
   line-height: 1;
   color: #fff;
