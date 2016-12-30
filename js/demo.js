@@ -2,13 +2,13 @@
 
 $(document).ready(function() {
   $('#particles').particleground({
-    dotColor: '#7D5D4E',
-    lineColor: '#7D5D4E',
-    particleRadius: 7, // Dot size
-    lineWidth: .25,
+    dotColor: '#ffffff',
+    lineColor: '#ffffff',
+    particleRadius: 3, // Dot size
+    lineWidth: .125,
     curvedLines: false,
     proximity: 100,
-	density: '10000'
+	density: '6500'
   });
   $('.intro').css({
     'margin-top': -($('.intro').height() / 2)
