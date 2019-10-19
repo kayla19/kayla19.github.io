@@ -1,5 +1,5 @@
-kayla19.github.io
+KaylaxKayla.github.io
 =================
 
-The code for the personal portfolio at nakaylasmith.com
+The code for the personal portfolio at nakay.la
 Hosted with Github Pages, domain from NameCheap.
