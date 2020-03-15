@@ -16,6 +16,7 @@ time, mark, audio, video {
   border: 0;
   font-size: 100%;
   font: inherit;
+  //text-align: left;
   vertical-align: baseline;
 }
 article, aside, details, figcaption, figure,
@@ -88,8 +89,8 @@ h1 {
 
 hr{
   width: 40%;
-  align-left: auto;
-  align-right: auto;
+  //align-left:
+  //align-right: auto;
   color: white;
 }
 p:hr{
@@ -127,7 +128,9 @@ p {
 }
 
 .inner{
-  background: white;
+  background: gray;
+  opacity: 50%;
+  //background-color: gray;
 }
 
 @media only screen and (max-width: 1000px) {
